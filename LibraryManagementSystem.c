@@ -1,7 +1,7 @@
 /*
 DSA Project Defination: library management system
 
-Program will simulate the library management like Add a book, Delete book from library, 
+Program will simulate the library management like Add a book, Delete book from library,
 also issue a book and many. we will implement the whole Project using Linked List, Array, BST.
 
 Program Modules:
@@ -19,12 +19,6 @@ for librarian:
 3) Display issued Books
 4) Display Members of Library
 5) Display available books in library
-
-
-                                           :: Roll No ::
-                                     20BCE104 : Jatin B. Undhad
-                                     20BCE103 : Jani Chetan
-                                     20BCE089 : Het Patel
 
 */
 
